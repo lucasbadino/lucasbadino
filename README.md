@@ -3,7 +3,7 @@
 
 
 ## 🌍 Un poco más sobre mí
-Soy estudiante de Henry, con especialización en desarrollo Full Stack, motivado por una profunda pasión por la programación y la creación de soluciones tecnológicas innovadoras. Estoy aprendiendo y desarrollando habilidades en tecnologías clave como JavaScript, React, Node.js, HTML, CSS, PostgreSQL, NestJS y Next.js. Mi enfoque está en construir aplicaciones web escalables, rápidas y eficientes, mientras desarrollo un sólido conocimiento en el desarrollo de software. Me esfuerzo por resolver problemas complejos mediante código limpio, optimizado y fácil de mantener. Siempre estoy buscando oportunidades para seguir aprendiendo y mejorar mis habilidades en un entorno desafiante y en constante evolución.
+Soy desarrollador Full Stack con experiencia en la creación de soluciones tecnológicas innovadoras. Apasionado por la programación, me especializo en tecnologías clave como JavaScript, React, Node.js, NestJS, Next.js, HTML, CSS y PostgreSQL. Mi enfoque está en desarrollar aplicaciones web escalables, rápidas y eficientes, aplicando buenas prácticas de desarrollo de software. Me esfuerzo por escribir código limpio, optimizado y fácil de mantener, y siempre busco oportunidades para seguir aprendiendo y mejorando en un entorno dinámico y desafiante.
 
 <br>
 
