@@ -81,7 +81,7 @@ Si tu empresa necesita un profesional con experiencia para desarrollar solucione
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucas-badino-9973ba143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/lucasbadino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="mailto:lucas.badino.7@gmail.com" target="blank">
     <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzt-DuvGbfrUQxMPLWYdKgLjxl_bTMX76sxQ&s" alt="gmail" height="30" width="40" />
   </a>
