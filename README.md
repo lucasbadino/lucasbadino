@@ -3,7 +3,11 @@
 
 
 ## 🌍 Un poco más sobre mí
-Soy desarrollador Full Stack con experiencia en la creación de soluciones tecnológicas innovadoras. Apasionado por la programación, me especializo en tecnologías clave como JavaScript, React, Node.js, NestJS, Next.js, HTML, CSS y PostgreSQL. Mi enfoque está en desarrollar aplicaciones web escalables, rápidas y eficientes, aplicando buenas prácticas de desarrollo de software. Me esfuerzo por escribir código limpio, optimizado y fácil de mantener, y siempre busco oportunidades para seguir aprendiendo y mejorando en un entorno dinámico y desafiante.
+Soy desarrollador Full Stack con experiencia en la creación de soluciones tecnológicas innovadoras.
+Apasionado por la programación, me especializo en tecnologías clave como JavaScript, React, Node.js, NestJS, Next.js, HTML, CSS y PostgreSQL. Mi enfoque está en desarrollar aplicaciones web escalables, rápidas y eficientes, aplicando buenas prácticas de desarrollo de software. Me esfuerzo por escribir código limpio, optimizado y fácil de mantener, y siempre busco oportunidades para seguir aprendiendo y mejorando en un entorno dinámico y desafiante.
+
+¿Estás buscando un desarrollador comprometido y con habilidades para llevar tu empresa al siguiente nivel?
+Si tu empresa necesita un profesional con experiencia para desarrollar soluciones innovadoras y de alto rendimiento, ¡me encantaría ser parte de tu equipo! Contáctame para discutir cómo puedo contribuir al éxito de tu organización.
 
 <br>
 
